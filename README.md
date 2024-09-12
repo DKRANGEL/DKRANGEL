@@ -11,9 +11,9 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DKRANGEL&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&custom_title=DKRANGEL%20Contribuitions" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DKRANGEL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=DKRANGEL&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DKRANGEL&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&custom_title=DKRANGEL%20Contribuitions" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
