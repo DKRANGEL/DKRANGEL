@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">hello World</p>
+<p align="left">Sou um desenvolvedor fullstack com sólida experiência em tecnologias frontend e backend, capaz de construir soluções completas e eficientes. Atualmente, estou focado no desenvolvimento de um sistema de gerenciamento de negócios utilizando Laravel 11 no backend, PostgreSQL como banco de dados, Bootstrap e TailwindCSS para interfaces modernas e responsivas, além de Redis para otimização de cache e Gitflow para gerenciar versões e colaborar eficientemente. Minha versatilidade me permite atuar em todas as camadas de um projeto, sempre buscando entregar código de qualidade e soluções robustas.</p>
 
 ###
 
@@ -67,5 +67,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
+
+!(snake)
 
 ###
