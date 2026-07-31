@@ -9,11 +9,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-Desenvolvedor Fullstack com 2+ anos de produção em sistemas web para os setores farmacêutico e de gestão pública. Atualmente na Alquimia Company, construindo um ERP farmacêutico com arquitetura Multitenant (Laravel + PostgreSQL), incluindo o sistema de migração de dados legados (Firebird/Delphi → PostgreSQL) do zero.
+Desenvolvedor Fullstack com 2+ anos de produção em sistemas web para os setores farmacêutico e de gestão pública. Atualmente na Alquimia Company, construindo um ERP farmacêutico com arquitetura Multitenant (Laravel + PostgreSQL), incluindo o sistema de migração de dados legados (Firebird/Delphi para PostgreSQL) do zero.
 
-Em paralelo, venho expandindo pra stack moderna de Node.js/Next.js/TypeScript em projetos próprios com arquitetura documentada e testes automatizados, e mantenho o **MF Manager** — sistema de gestão em produção pra uma importadora, com deploy containerizado e CI/CD.
+Em paralelo, venho expandindo pra stack moderna de Node.js/Next.js/TypeScript em projetos próprios com arquitetura documentada e testes automatizados.
 
-Cursando o último semestre de Engenharia de Software na Universidade Católica de Brasília — conclusão prevista Dezembro/2026.
+Cursando o último semestre de Engenharia de Software na Universidade Católica de Brasília (conclusão prevista Dezembro/2026).
 
 ---
 
